@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <img src="svg/tableau.svg">
+    <img src="svg/tableau_header.svg">
 </div>
 
 <br />
