@@ -5,9 +5,10 @@
 <br />
 
 **Please visit [Tableau Public](https://public.tableau.com/app/profile/j.white1987) for all Tableau Dashboards**
+<br />
+
 *Note: The dashboards included on the Tableau Public profile correspond with repositories within this GitHub profile. There are links included on each readme of the repositories that have corresponding Tableau dashboards.*
 
-<br />
 
 ## Screenshots
 <img src="screenshots/drug_analysis_dashboard.png">
