@@ -8,5 +8,5 @@
 
 <br />
 
-*Note: The dashboards included on the Tableau Public profile correspond with repositories within this GitHub profile. There are links included on each readme of the repositories that have corresponding Tableau dashboards.
+*Note: The dashboards included on the Tableau Public profile correspond with repositories within this GitHub profile. There are links included on each readme of the repositories that have corresponding Tableau dashboards.*
  
