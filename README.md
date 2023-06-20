@@ -17,6 +17,9 @@
 <img src="screenshots/kc.png">
 <img src="screenshots/lcc.png">
 <img src="screenshots/p_t_data.png">
+<img src="screenshots/bm.png">
+<img src="screenshots/usa.png">
+
 
 
  
